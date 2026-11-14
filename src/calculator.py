@@ -29,3 +29,4 @@ if __name__ == "__main__":
     print("7 - 4 =", subtract_numbers(7, 4))
     print("6 * 5 =", multiply_numbers(6, 5))
     print("8 / 2 =", divide_numbers(8, 2))
+    print("10 + 15 =", add_numbers(10, 15))
